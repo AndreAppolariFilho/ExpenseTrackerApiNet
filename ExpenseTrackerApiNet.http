@@ -1,0 +1,6 @@
+@ExpenseTrackerApiNet_HostAddress = http://localhost:5079
+
+GET {{ExpenseTrackerApiNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
